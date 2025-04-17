@@ -1,4 +1,14 @@
 # IOT-BASED-SOUND-POLLUTION-MONITORING-SYSTEM-USING-NODE-MCU
+------------------>>REQUIRED<<------------------------------
+#NODEMCU
+#MICROPHONE
+#I2C MODULE
+#LCD
+#CONNECTING WIRES
+#MICRO USB CABLE
+------>>CLOUD<<---------
+#THINGSPEAK
+
 Do these step by step process for excecuting the project 
 1) copy and paste the preference link in the preference section available in the files tab,i am providing the link bellow 
 ----->>https://arduino.esp8266.com/stable/package_esp8266com_index.json<<----
